@@ -1,2 +1,6 @@
 # outlierUtils
-R utilities to detect outliers
+
+R utilities to detect outliers.
+Work in progress ...
+
+----
